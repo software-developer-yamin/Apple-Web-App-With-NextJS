@@ -1765,6 +1765,11 @@ suspend-react@0.0.8:
   resolved "https://registry.yarnpkg.com/suspend-react/-/suspend-react-0.0.8.tgz#b0740c1386b4eb652f17affe4339915ee268bd31"
   integrity sha512-ZC3r8Hu1y0dIThzsGw0RLZplnX9yXwfItcvaIzJc2VQVi8TGyGDlu92syMB5ulybfvGLHAI5Ghzlk23UBPF8xg==
 
+tailwind-scrollbar@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/tailwind-scrollbar/-/tailwind-scrollbar-2.0.1.tgz#f08721173d513f1406a44601640b79726e3f9728"
+  integrity sha512-OcR7qHBbux4k+k6bWqnEQFYFooLK/F4dhkBz6nvswIoaA9ancZ5h20e0tyV7ifSWLDCUBtpG+1NHRA8HMRH/wg==
+
 tailwindcss@^3.2.1:
   version "3.2.4"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.2.4.tgz#afe3477e7a19f3ceafb48e4b083e292ce0dc0250"

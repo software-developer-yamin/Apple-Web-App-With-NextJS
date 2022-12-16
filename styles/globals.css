@@ -6,7 +6,7 @@
 
 @layer base {
   body {
-    @apply font-body text-[#232428];
+    @apply font-body text-[#232428] h-32 scrollbar scrollbar-thumb-[#e5116c] scrollbar-track-[#aa1ea8] scrollbar-thumb-rounded-md;
   }
 }
 
